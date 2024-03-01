@@ -1,0 +1,18 @@
+{
+    "newsletter": [
+        {
+            "id": 1,
+            "title": "January 2024",
+            "description": "Issue #1",
+            "href": "/newsletters/RGC Newsletter - January 2024 Edition.pdf",
+            "image": "/newsletters/january.jpg"
+        },
+        {
+            "id": 2,
+            "title": "February 2024",
+            "description": "Issue #2",
+            "href": "/newsletters/RGC Newsletter - February 2024 Edition.pdf",
+            "image": "/newsletters/february.jpg"
+        }
+    ]
+}
