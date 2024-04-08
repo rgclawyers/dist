@@ -13,6 +13,13 @@
             "description": "Issue #2",
             "href": "/newsletters/RGC Newsletter - February 2024 Edition.pdf",
             "image": "/newsletters/february.jpg"
+        },
+        {
+            "id": 3,
+            "title": "March 2024",
+            "description": "Issue #3",
+            "href": "/newsletters/RGC Newsletter - March 2024 Edition.pdf",
+            "image": "/newsletters/march.jpg"
         }
     ]
 }
