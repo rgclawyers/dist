@@ -1,4 +1,4 @@
-import{J as e,I as t}from"./index-CfVscMQJ.js";var n,r,o={exports:{}};
+import{J as e,I as t}from"./index-_q8b7ym6.js";var n,r,o={exports:{}};
 /** @license
  * eventsource.js
  * Available under MIT License (MIT)
