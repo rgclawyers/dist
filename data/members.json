@@ -1,0 +1,106 @@
+{
+    "members": [
+        {
+            "partners": [
+                {
+                    "id": "rajesh-goel",
+                    "name": "Rajesh Goel",
+                    "designation": "Managing Partner",
+                    "image": "/data/our-team/rajesh-goel.jpg",
+                    "link": "/our-team/rajesh-goel",
+                    "linkedin": "https://www.linkedin.com/company/rgclawyers",
+                    "dataText": "Found RGC Lawyers in 1999",
+                    "memberships": "Punjab & Haryana Bar Council since 1996",
+                    "email": "mailto:info@rgclawyers.com",
+                    "description": [
+                        "Rajesh Goel is a highly accomplished legal professional with a wealth of experience in Corporate and Transactional matters, Banking Finance and other related matters, Real Estate, Pharmaceutical & Arbitration matters. He is renowned having represented various corporate as also governmental clients, showcasing an exemplary proficiency in handling intricate transactions not just limited to real estate and providing invaluable legal opinions on diverse aspects of legal aspects in various fields.",
+                        "Rajesh's expertise extends to skillfully negotiating complex deals, drafting meticulous real estate documents, and facilitating structured finance arrangements to ensure successful outcomes for his clients. His specialization in real estate is further underscored by his adeptness in mergers and acquisitions within the industry.",
+                        "Rajesh Goel founded RGC Lawyers in 1999 which has since become a prominent player in the legal industry. With a vision to provide exceptional legal services and a focus on excellence, Rajesh laid the foundation for a firm that embodies professionalism, expertise, and a client-centric approach. Under his leadership, RGC Lawyers has thrived and earned a reputation for its breadth of experience in corporate and transactional matters, with a particular emphasis on real estate law. Rajesh's entrepreneurial spirit and commitment to delivering exceptional legal solutions have propelled the firm to success, making it a trusted destination for clients seeking top-notch legal representation in India's complex legal landscape."
+                    ]
+                },
+                {
+                    "id": "jatin-kumar",
+                    "name": "Jatin Kumar",
+                    "designation": "Partner",
+                    "image": "/data/our-team/jatin-kumar.jpg",
+                    "link": "/our-team/jatin-kumar",
+                    "dataText": "Part of RGC Lawyers since 2006",
+                    "linkedin": "https://www.linkedin.com/company/rgclawyers",
+                    "memberships": "Punjab & Haryana Bar Council since 2006",
+                    "email": "mailto:info@rgclawyers.com",
+                    "description": [
+                        " As a highly esteemed Partner at RGC Lawyers, Jatin Kumar brings over 17 years of invaluable experience to the firm since joining in 2006. With a primary focus on real estate, banking and finance, general corporate related matters and client handling, Jatin has played an incredibly integral role in driving the remarkable success of our esteemed legal practice.",
+                        "Jatin's expertise lies in the realm of real estate law, banking and finance law and corporate law, where he has showcased a profound understanding of the intricacies and nuances involved in various transactions. His proficiency extends to navigating complex deals and matters has earned him a reputation as a trusted legal expert in the field of law.",
+                        "Moreover, Jatin's exceptional client handling skills have forged strong and enduring relationships with our esteemed clients, fostering a sense of confidence and trust in the services offered by RGC Lawyers. His unwavering commitment to achieving favorable outcomes and delivering exceptional legal counsel has been pivotal in elevating the firm's reputation for excellence.",
+                        "With Jatin Kumar's wealth of experience and unwavering dedication, RGC Lawyers continues to thrive as a premier legal firm, offering top-tier legal solutions to clients seeking unparalleled representation in the dynamic landscape of real estate law. His passion for the law and his remarkable contributions to the firm have firmly established him as a key figure in our continued growth and success."
+                    ]
+                }
+            ],
+            "associates": [
+                {
+                    "name": "Stuti Bamba",
+                    "designation": "Senior Associate",
+                    "image": "/data/our-team/stuti.jpg",
+                    "link": "/our-team/stuti"
+                },
+                {
+                    "name": "Kalyani Rai Bansal",
+                    "designation": "Associate",
+                    "image": "/data/our-team/kalyani.jpg",
+                    "link": "/our-team/kalyani"
+                },
+                {
+                    "name": "Ishaan Goel",
+                    "designation": "Associate",
+                    "image": "/data/our-team/ishaan.jpg",
+                    "link": "/our-team/ishaan"
+                },
+                {
+                    "name": "Tarun Kumar",
+                    "designation": "Associate",
+                    "image": "/data/our-team/tarun.jpg",
+                    "link": "/our-team/tarun"
+                },
+                {
+                    "name": "Manish Sachdeva",
+                    "designation": "Associate",
+                    "image": "/data/our-team/manish.jpg",
+                    "link": "/our-team/manish"
+                },
+                {
+                    "name": "Jitan Puri",
+                    "designation": "Associate",
+                    "image": "/data/our-team/jitan.jpeg",
+                    "link": "/our-team/jitan"
+                }
+            ],
+            "staff": [
+                {
+                    "name": "Nanda Joshi",
+                    "designation": "Senior Executive Assistant",
+                    "image": "/data/our-team/nanda-joshi.jpg"
+                },
+                {
+                    "name": "Tanvi",
+                    "designation": "Legal Secratary",
+                    "image": "/data/our-team/tanvi-sood.jpg"
+                },
+                {
+                    "name": "Somesh Sharma",
+                    "designation": "Legal Assistant",
+                    "image": "/data/our-team/somesh-sharma.jpg"
+                },
+                {
+                    "name": "Meet Parcha",
+                    "designation": "Executive Assistant",
+                    "image": "/data/our-team/meet.jpeg"
+                },
+                {
+                    "name": "Aman Deep Singh",
+                    "designation": "Executive Assistant",
+                    "image": "/data/our-team/aman-deep-singh.jpg"
+                }
+            ]
+        }
+    ]
+}
