@@ -82,13 +82,8 @@
                 },
                 {
                     "name": "Tanvi",
-                    "designation": "Legal Secratary",
+                    "designation": "Legal Secretary",
                     "image": "/data/our-team/tanvi-sood.jpg"
-                },
-                {
-                    "name": "Somesh Sharma",
-                    "designation": "Legal Assistant",
-                    "image": "/data/our-team/somesh-sharma.jpg"
                 },
                 {
                     "name": "Meet Parcha",
@@ -99,6 +94,11 @@
                     "name": "Aman Deep Singh",
                     "designation": "Executive Assistant",
                     "image": "/data/our-team/aman-deep-singh.jpg"
+                },
+                {
+                    "name": "Somesh Sharma",
+                    "designation": "Legal Assistant",
+                    "image": "/data/our-team/somesh-sharma.jpg"
                 }
             ]
         }
