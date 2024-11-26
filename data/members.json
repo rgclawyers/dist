@@ -60,18 +60,6 @@
                     "designation": "Associate",
                     "image": "/data/our-team/tarun.jpg",
                     "link": "/our-team/tarun"
-                },
-                {
-                    "name": "Manish Sachdeva",
-                    "designation": "Associate",
-                    "image": "/data/our-team/manish.jpg",
-                    "link": "/our-team/manish"
-                },
-                {
-                    "name": "Jitan Puri",
-                    "designation": "Associate",
-                    "image": "/data/our-team/jitan.jpeg",
-                    "link": "/our-team/jitan"
                 }
             ],
             "staff": [
