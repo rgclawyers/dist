@@ -21,7 +21,7 @@
                 {
                     "id": "jatin-kumar",
                     "name": "Jatin Kumar",
-                    "designation": "Partner",
+                    "designation": "Senior Partner",
                     "image": "/data/our-team/jatin-kumar.jpg",
                     "link": "/our-team/jatin-kumar",
                     "dataText": "Part of RGC Lawyers since 2006",
@@ -38,7 +38,7 @@
                 {
                     "id": "charu-sachdev",
                     "name": "Charu Sachdev",
-                    "designation": "Partner (Associated)",
+                    "designation": "Partner",
                     "image": "/data/our-team/charu-sachdev.jpeg",
                     "link": "/our-team/charu-sachdev",
                     "dataText": "Managing Partner of Sachdev & Associates",
@@ -56,7 +56,7 @@
                 {
                     "id": "gulshan-sachdev",
                     "name": "Gulshan Kr. Sachdev",
-                    "designation": "Partner (Associated)",
+                    "designation": "Partner",
                     "image": "/data/our-team/gulshan-sachdev.jpeg",
                     "link": "/our-team/gulshan-sachdev",
                     "dataText": "Partner at Sachdev & Associates",
